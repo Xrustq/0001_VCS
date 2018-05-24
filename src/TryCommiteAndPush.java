@@ -3,5 +3,6 @@ public class TryCommiteAndPush {
         System.out.println("Hello world one");
         System.out.println("Hello world");
         System.out.println("Hello world");
+        System.out.println("Hello world");
     }
 }
